@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o3tyZbTL4BQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eiji\\codeLearning\\Web\\cg-microservice\\cg-app-backend\\cg-app-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eiji\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\Eiji\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
