@@ -1,4 +1,4 @@
-# cg-microservice 📝💵
+# cg-app 📝💵
 
 CG ou Controle de Gastos, é um projeto com objetivo dos usuários verificar, gerenciar e adicionar despesas pessoais por meio de um sistema responsivo e fácil interação
 
