@@ -3,14 +3,13 @@ import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
+  standalone: true,
   imports: [RouterOutlet],
   template: `
-
-    <h1 class="text-3xl font-bold">{{ title }}</h1>
     <router-outlet />
   `,
   styles: [],
 })
 export class AppComponent {
-  title = 'cg-app-frontend';
+  
 }
